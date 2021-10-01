@@ -1,6 +1,6 @@
 {
   "name": "s4d-utilities",
-  "version": "5.1.0",
+  "version": "0.0.1",
   "description": "utilitie for scratch for discord",
   "main": "src/index.js",
   "repository": {
