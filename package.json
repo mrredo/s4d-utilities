@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrredo/s4d-utilities/issues.git"
+    "url": "https://github.com/mrredo/s4d-utilities"
   },
   "keywords": [
     "s4d",
